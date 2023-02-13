@@ -32,5 +32,5 @@ function DELL() {
   let answer = document.getElementById("answer");
   number1.value = "";
   number2.value = "";
-  answer.value = "";
+  answer.innerHTML = "0";
 }
